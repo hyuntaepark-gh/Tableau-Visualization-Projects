@@ -17,13 +17,15 @@ and global well-being using real-world datasets.
 
 ## Repository Structure
 
+```
 tableau-visualization-projects
 ├── olympic-performance
-│ ├── tableau
-│ │ ├── *.twbx
-│ └── report
-│ └── *.pdf
+│   ├── tableau
+│   │   └── *.twbx
+│   └── report
+│       └── *.pdf
 └── README.md
+```
 
 ## Tools & Skills
 - Tableau (advanced charts and dashboards)
