@@ -8,29 +8,32 @@ and global well-being using real-world datasets.
 
 ## Projects Overview
 
-### Olympic Performance
+### 1. Olympic Performance & Global Well-Being
+Analysis of Olympic athletic performance and its relationship with
+economic and well-being indicators.
 
-- 📊 **100m Winning Time Trends** – Trend analysis of Men’s 100m winning times
-- 📈 **Medal Count & Country Ranking** – Line chart & bump chart for ranking
-- 🌍 **GDP vs Happiness** – Connected scatterplot on economic & well-being metrics
+- 🏃‍♂️ **100m Winning Time Trends**  
+  Trend analysis of Men’s 100m Olympic winning times over time
+
+- 🥇 **Medal Rankings & Country Comparisons**  
+  Line and bump chart visualizations of medal count and ranking
+
+- 🌍 **GDP vs Happiness Analysis**  
+  Connected scatterplots of GDP per capita and Happiness Score
 
 
-### Olympic Performance & Global Well-Being
+### 2. Global Development Analysis
+Exploration of long-term global development patterns using animated
+and multivariate visualizations.
 
-#### 🏃‍♂️ 100m Performance Trends
-- Trend analysis of Men’s 100m Olympic performance over time
+- 🌐 **GDP per Capita vs Life Expectancy**  
+  Animated Gapminder-style bubble chart
 
-#### 🥇 Medal Rankings & Country Comparisons
-- Line and bump chart visualizations of medal count and ranking
+- 🔁 **Country Development Trajectories**  
+  Connected scatterplots showing long-term trends
 
-#### 🌍 GDP vs Happiness Analysis
-- Connected scatterplots of GDP per capita and Happiness Score
-
-### Global Development Analysis
-
-- Animated Gapminder-style bubble chart of GDP per capita vs Life Expectancy
-- Connected scatterplots showing long-term country development trajectories
-- K-Means clustering and MDS projection of development patterns
+- 🧠 **Clustering & MDS Projection**  
+  K-Means clustering and MDS projection of development patterns
 
 ## Repository Structure
 The repository is organized by project, with Tableau workbooks and reports stored in separate folders.
