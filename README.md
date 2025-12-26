@@ -25,6 +25,7 @@ and global well-being using real-world datasets.
 - Connected scatterplots examining the relationship between GDP per capita and happiness across countries
 
 ## Repository Structure
+The repository is organized by project, with Tableau workbooks and reports stored separately.
 
 ```
 tableau-visualization-projects
