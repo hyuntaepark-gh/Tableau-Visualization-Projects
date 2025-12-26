@@ -8,6 +8,11 @@ and global well-being using real-world datasets.
 
 ## Projects Overview
 
+#### Olympic Performance
+- 🔍 Focus: 100m trends
+- 📊 Key insight: winning times decreasing
+- 📈 Chart types: bump chart, line chart
+
 ### Olympic Performance & Global Well-Being
 - Analysis of Men’s 100m Olympic performance trends over time
 - NYT-style visualizations of fastest winning times
