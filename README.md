@@ -51,10 +51,10 @@ tableau-visualization-projects
 
 ```
 
-### 📁 Project Files
+## 📁 Project Files
 
 - 📊 [Tableau Workbooks (.twbx)](olympic-performance/tableau/)
-- 📄 [Analysis Report (.pdf)](olympic-performance/report/)
+- 📄 [Analysis Report (PDF)](olympic-performance/report/)
 
 ### Sample Visualizations
 
@@ -64,8 +64,9 @@ tableau-visualization-projects
 ![GDP vs Happiness](olympic-performance/assets/gdp-happiness.png)
 *GDP per capita vs happiness*
 
-## Tools & Skills
-- Tableau (advanced charts and dashboards)
+## 🛠 Tools & Skills
+- Tableau (advanced charts & dashboards)
 - Data visualization & storytelling
 - Trend analysis using real-world datasets
 - Interactive dashboards and explanatory visual design
+- Basic data cleaning and preparation in Tableau
