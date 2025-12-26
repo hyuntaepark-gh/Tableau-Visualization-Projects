@@ -16,13 +16,15 @@ and global well-being using real-world datasets.
 
 
 ### Olympic Performance & Global Well-Being
-#### 🏃‍♂️ Olympic 100m Performance Trends
-- Analysis of Men’s 100m Olympic performance trends over time
-- NYT-style visualizations of fastest winning times
 
-#### 🌍 GDP and Happiness Visualization
-- Country-level medal counts and rankings using line charts and bump charts
-- Connected scatterplots examining the relationship between GDP per capita and happiness across countries
+#### 🏃‍♂️ 100m Performance Trends
+- Trend analysis of Men’s 100m Olympic performance over time
+
+#### 🥇 Medal Rankings & Country Comparisons
+- Line and bump chart visualizations of medal count and ranking
+
+#### 🌍 GDP vs Happiness Analysis
+- Connected scatterplots of GDP per capita and Happiness Score
 
 ## Repository Structure
 The repository is organized by project, with Tableau workbooks and reports stored separately.
@@ -37,10 +39,10 @@ tableau-visualization-projects
 └── README.md
 ```
 
-## Project Files
+### 📁 Project Files
 
-- 📂 [Olympic Performance Tableau files](olympic-performance/tableau)
-- 📄 [Olympic Performance Report (PDF)](olympic-performance/report)
+- 📊 [Tableau Workbooks (.twbx)](olympic-performance/tableau/)
+- 📄 [Analysis Report (.pdf)](olympic-performance/report/)
 
 ### Sample Visualizations
 
