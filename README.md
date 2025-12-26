@@ -26,14 +26,14 @@ and global well-being using real-world datasets.
 #### 🌍 GDP vs Happiness Analysis
 - Connected scatterplots of GDP per capita and Happiness Score
 
-## Repository Structure
-The repository is organized by project, with Tableau workbooks and reports stored in separate folders.
-
 ### Global Development Analysis
 
 - Animated Gapminder-style bubble chart of GDP per capita vs Life Expectancy
 - Connected scatterplots showing long-term country development trajectories
 - K-Means clustering and MDS projection of development patterns
+
+## Repository Structure
+The repository is organized by project, with Tableau workbooks and reports stored in separate folders.
 
 ```
 tableau-visualization-projects
