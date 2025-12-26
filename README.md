@@ -27,6 +27,11 @@ tableau-visualization-projects
 └── README.md
 ```
 
+### Project Files
+- [Tableau Workbooks (.twbx)](olympic-performance/tableau)
+- [Analysis Report (PDF)](olympic-performance/report)
+
+
 ## Tools & Skills
 - Tableau (advanced charts and dashboards)
 - Data visualization & storytelling
