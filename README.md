@@ -8,10 +8,12 @@ and global well-being using real-world datasets.
 
 ## Projects Overview
 
-#### Olympic Performance
-- 🔍 Focus: 100m trends
-- 📊 Key insight: winning times decreasing
-- 📈 Chart types: bump chart, line chart
+### Olympic Performance
+
+- 📊 **100m Winning Time Trends** – Trend analysis of Men’s 100m winning times
+- 📈 **Medal Count & Country Ranking** – Line chart & bump chart for ranking
+- 🌍 **GDP vs Happiness** – Connected scatterplot on economic & well-being metrics
+
 
 ### Olympic Performance & Global Well-Being
 #### 🏃‍♂️ Olympic 100m Performance Trends
@@ -35,16 +37,17 @@ tableau-visualization-projects
 ```
 
 ## Project Files
-- 🗂 [Tableau workbooks (.twbx)](olympic-performance/tableau/)
-- 📄 [Analysis report (.pdf)](olympic-performance/report/)
+
+- 📂 [Olympic Performance Tableau files](olympic-performance/tableau)
+- 📄 [Olympic Performance Report (PDF)](olympic-performance/report)
 
 ### Sample Visualizations
 
-![Olympic Trend Chart](path/to/image1.png)
-*Olympic 100m performance trend*
+![Winning Time Trend](olympic-performance/assets/100m-trend.png)
+*100m winning time trend*
 
-![GDP vs Happiness Chart](path/to/image2.png)
-*GDP per Capita vs Happiness*
+![GDP vs Happiness](olympic-performance/assets/gdp-happiness.png)
+*GDP per capita vs happiness*
 
 ## Tools & Skills
 - Tableau (advanced charts and dashboards)
