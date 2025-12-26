@@ -1,4 +1,4 @@
-# tableau-visualization-projects
+# Tableau-Visualization-Projects
 
 Visualizing Performance Trends: From Olympic Athletics to Global Happiness
 
