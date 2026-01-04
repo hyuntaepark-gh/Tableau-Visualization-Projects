@@ -7,20 +7,7 @@ It combines statistical analysis, clustering methods, and visual storytelling to
 
 ## 📁 Project Structure
 
-nba-scoring-evolution-player-similarity
-├── report/
-│   ├── .gitkeep
-│   └── analysis_report.pdf
-├── tableau/
-│   ├── .gitkeep
-│   └── Part A.twbx
-├── orange-analysis/
-│   ├── .gitkeep
-│   └── Part B.ows
-├── python-analysis/
-│   ├── .gitkeep
-│   └── Part B-3
-└── README.md
+<pre> nba-scoring-evolution-player-similarity ├── report/ │ ├── .gitkeep │ └── analysis_report.pdf ├── tableau/ │ ├── .gitkeep │ └── Part A.twbx ├── orange-analysis/ │ ├── .gitkeep │ └── Part B.ows ├── python-analysis/ │ ├── .gitkeep │ └── Part B-3 └── README.md </pre>
 
 ---
 
