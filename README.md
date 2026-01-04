@@ -44,6 +44,28 @@ and multivariate visualization techniques.
 
 ---
 
+### 3. NBA Scoring Evolution & Player Similarity Analysis
+NYT-inspired visualizations and multivariate analysis of NBA player performance
+using Tableau and Python.
+
+**Key analyses include:**
+- 🏀 **Top 250 NBA Scorers (Career Points)**  
+  Bar chart highlighting all-time scoring leaders with emphasis on
+  LeBron James and Kareem Abdul-Jabbar
+
+- 📈 **History of NBA Shot Selection**  
+  Line charts showing league-wide shifts in free throws, two-pointers,
+  and three-pointers over time
+
+- ⏱ **LeBron vs Kareem: Career Points by Age**  
+  Cumulative career scoring comparison using running totals
+
+- 🧠 **Player Similarity & Outlier Detection**  
+  PCA and MDS projections of per-36 statistics, with LOF used to identify
+  unusual player profiles
+
+---
+
 ## 📁 Repository Structure
 
 Projects are organized by topic. Each folder contains Tableau workbooks,
@@ -61,6 +83,11 @@ tableau-visualization-projects
 │   └── report
 │       ├── partA.pdf
 │       └── partB.pdf
+├── nba-analytics
+│   ├── tableau
+│   ├── python
+│   └── report
+│       └── Report.pdf
 └── README.md
 
 ```
@@ -86,6 +113,7 @@ tableau-visualization-projects
 - Multivariate techniques (clustering, MDS)
 - Visual design for explanatory analytics
 - Basic data preparation and transformation in Tableau
+- Dimensionality reduction (PCA, MDS) and outlier detection (LOF)
 
 ---
 
