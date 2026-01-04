@@ -6,6 +6,8 @@ It combines statistical analysis, clustering methods, and visual storytelling to
 ---
 
 ## 📁 Project Structure
+
+```
 nba-scoring-evolution-player-similarity
 ├── report/
 │   ├── .gitkeep
@@ -20,7 +22,7 @@ nba-scoring-evolution-player-similarity
 │   ├── .gitkeep
 │   └── Part B-3
 └── README.md
-
+```
 
 ---
 
