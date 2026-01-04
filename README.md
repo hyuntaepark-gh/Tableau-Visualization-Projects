@@ -1,42 +1,53 @@
-# Tableau-Visualization-Projects
+# Tableau Visualization Projects
 
-Visualizing Performance Trends: From Olympic Athletics to Global Happiness
+Visualizing performance, development, and well-being through data.
 
-This repository contains a collection of Tableau visualization projects
-exploring long-term trends in athletic performance, national competition,
-and global well-being using real-world datasets.
+This repository showcases a collection of Tableau visualization projects
+focused on long-term trends in athletic performance, national competition,
+and global development using real-world datasets.  
+Each project emphasizes **data storytelling, comparative analysis, and visual clarity**.
 
-## Projects Overview
+---
+
+## 📊 Projects Overview
 
 ### 1. Olympic Performance & Global Well-Being
-Analysis of Olympic athletic performance and its relationship with
-economic and well-being indicators.
+An analytical exploration of Olympic athletic performance and its relationship
+with economic indicators and national well-being.
 
-- 🏃‍♂️ **100m Winning Time Trends**  
-  Trend analysis of Men’s 100m Olympic winning times over time
+**Key Visualizations**
+- 🏃‍♂️ **Men’s 100m Olympic Winning Time Trends**  
+  Time-series analysis highlighting performance evolution over decades
 
 - 🥇 **Medal Rankings & Country Comparisons**  
-  Line and bump chart visualizations of medal count and ranking
+  Line and bump charts comparing medal counts and rank changes across countries
 
 - 🌍 **GDP vs Happiness Analysis**  
-  Connected scatterplots of GDP per capita and Happiness Score
+  Connected scatterplots examining the relationship between GDP per capita
+  and national happiness scores
 
+---
 
 ### 2. Global Development Analysis
-Exploration of long-term global development patterns using animated
-and multivariate visualizations.
+An exploration of long-term global development patterns using animated
+and multivariate visualization techniques.
 
+**Key Visualizations**
 - 🌐 **GDP per Capita vs Life Expectancy**  
-  Animated Gapminder-style bubble chart
+  Gapminder-style animated bubble charts
 
 - 🔁 **Country Development Trajectories**  
-  Connected scatterplots showing long-term trends
+  Connected scatterplots showing development paths over time
 
 - 🧠 **Clustering & MDS Projection**  
-  K-Means clustering and MDS projection of development patterns
+  K-Means clustering and Multidimensional Scaling (MDS) to compare development patterns
 
-## Repository Structure
-The repository is organized by project, with Tableau workbooks and reports stored in separate folders.
+---
+
+## 📁 Repository Structure
+
+Projects are organized by topic. Each folder contains Tableau workbooks,
+supporting assets, and written analysis.
 
 ```
 tableau-visualization-projects
@@ -67,9 +78,18 @@ tableau-visualization-projects
 ![GDP vs Happiness](olympic-performance/assets/gdp-happiness.png)
 *GDP per capita vs happiness*
 
-## 🛠 Tools & Skills
-- Tableau (advanced charts & dashboards)
+## 🛠 Tools & Skills Demonstrated
+
+- Tableau (advanced dashboards & animations)
 - Data visualization & storytelling
-- Trend analysis using real-world datasets
-- Interactive dashboards and explanatory visual design
-- Basic data cleaning and preparation in Tableau
+- Trend and comparative analysis
+- Multivariate techniques (clustering, MDS)
+- Visual design for explanatory analytics
+- Basic data preparation and transformation in Tableau
+
+---
+
+## 🚀 Future Additions
+- Sports analytics projects (NBA, player performance analysis)
+- Machine learning–assisted exploratory analysis
+- Additional interactive dashboards and case studies
