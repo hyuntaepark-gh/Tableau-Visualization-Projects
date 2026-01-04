@@ -105,6 +105,12 @@ tableau-visualization-projects
 ![GDP vs Happiness](olympic-performance/assets/gdp-happiness.png)
 *GDP per capita vs happiness*
 
+![NBA Top 250 Scorers](nba-analytics/assets/top250.png)
+*All-time scoring leaders*
+
+![NBA Shot Selection Trends](nba-analytics/assets/shot_selection.png)
+*NBA historical shot selection*
+
 ## 🛠 Tools & Skills Demonstrated
 
 - Tableau (advanced dashboards & animations)
