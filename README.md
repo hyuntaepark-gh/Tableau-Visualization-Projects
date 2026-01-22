@@ -64,34 +64,6 @@ using Tableau and Python.
   PCA and MDS projections of per-36 statistics, with LOF used to identify
   unusual player profiles
 
----
-
-## 📁 Repository Structure
-
-Projects are organized by topic. Each folder contains Tableau workbooks,
-supporting assets, and written analysis.
-
-```
-tableau-visualization-projects
-├── olympic-performance
-│   ├── tableau
-│   └── report
-├── global-development-analysis
-│   ├── tableau
-│   │   ├── .twbx
-│   │   └── .twb
-│   └── report
-│       ├── partA.pdf
-│       └── partB.pdf
-├── nba-analytics
-│   ├── tableau
-│   ├── python
-│   └── report
-│       └── Report.pdf
-└── README.md
-
-```
-
 ## 📁 Project Files
 
 - 📊 [Tableau Workbooks (.twbx)](olympic-performance/tableau/)
@@ -127,3 +99,31 @@ tableau-visualization-projects
 - Sports analytics projects (NBA, player performance analysis)
 - Machine learning–assisted exploratory analysis
 - Additional interactive dashboards and case studies
+
+---
+
+## 📁 Repository Structure
+
+Projects are organized by topic. Each folder contains Tableau workbooks,
+supporting assets, and written analysis.
+
+```
+tableau-visualization-projects
+├── olympic-performance
+│   ├── tableau
+│   └── report
+├── global-development-analysis
+│   ├── tableau
+│   │   ├── .twbx
+│   │   └── .twb
+│   └── report
+│       ├── partA.pdf
+│       └── partB.pdf
+├── nba-analytics
+│   ├── tableau
+│   ├── python
+│   └── report
+│       └── Report.pdf
+└── README.md
+
+```
