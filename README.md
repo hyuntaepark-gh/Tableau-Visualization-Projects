@@ -1,4 +1,4 @@
-# Tableau Visualization Projects
+# 📊 Tableau Visualization Projects
 
 Visualizing performance, development, and well-being through data.
 
