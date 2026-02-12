@@ -1,5 +1,16 @@
 # 📊 Tableau Visualization Projects
 
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?logo=tableau&logoColor=white)
+![Dashboard Design](https://img.shields.io/badge/Dashboard-Design-0A66C2)
+![Data Storytelling](https://img.shields.io/badge/Data-Storytelling-6A1B9A)
+![Visual Analytics](https://img.shields.io/badge/Visual-Analytics-1E88E5)
+![Comparative Analysis](https://img.shields.io/badge/Comparative-Analysis-00897B)
+![Animated Charts](https://img.shields.io/badge/Animated-Visualizations-2E7D32)
+![PCA](https://img.shields.io/badge/PCA-Dimensionality%20Reduction-795548)
+![MDS](https://img.shields.io/badge/MDS-Multivariate%20Analysis-FF6F00)
+![Sports Analytics](https://img.shields.io/badge/Sports-Analytics-FF7043)
+![Global Development](https://img.shields.io/badge/Global-Data%20Visualization-232F3E)
+
 Visualizing performance, development, and well-being through data.
 
 This repository showcases a collection of Tableau visualization projects
